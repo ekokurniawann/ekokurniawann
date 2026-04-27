@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f44b.svg" width="30" /> Hi there, I'm Eko Kurniawan
+  Hi there, I'm Eko Kurniawan
 </h3>
 
 <p align="center" style="font-size: 1.1em; margin-top: 5px;">
@@ -8,15 +8,15 @@
 
 <hr style="margin: 30px 0;" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f468-200d-1f4bb.svg" width="20" /> About Me
+## About Me
 
 <p style="line-height: 1.6em;">
-I started coding in 2022 and am currently learning to become a Software Engineer. I enjoy exploring new technologies and engaging with developer communities.
+I am currently learning software development and working toward becoming a Software Engineer. I enjoy exploring new technologies and engaging with developer communities.
 </p>
 
 <hr style="margin: 30px 0;" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" width="20" /> Technologies & Tools
+## Technologies & Tools
 
 | Languages & Frameworks | Tools & Concepts |
 |-----------------------|-----------------|
@@ -28,7 +28,7 @@ I started coding in 2022 and am currently learning to become a Software Engineer
 
 <hr style="margin: 30px 0;" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/270d.svg" width="20" /> I Write At
+## I Write At
 
 <p style="line-height: 1.6em;">
 Coming Soon
@@ -36,10 +36,10 @@ Coming Soon
 
 <hr style="margin: 30px 0;" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4e1.svg" width="20" /> Connect With Me
+## Connect With Me
 
 <p align="center" style="margin-top: 10px; font-size: 1.1em;">
   <a href="https://www.linkedin.com/in/ekokurniawann/" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bc.svg" width="20" /> LinkedIn
+    LinkedIn
   </a>
 </p>
