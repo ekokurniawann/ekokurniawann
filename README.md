@@ -1,45 +1,28 @@
-<h3 align="center">
-  Hi there, I'm Eko Kurniawan
-</h3>
-
-<p align="center" style="font-size: 1.1em; margin-top: 5px;">
-  <strong>Software Engineer</strong>
-</p>
-
-<hr style="margin: 30px 0;" />
+# Hi, I’m Eko Kurniawan
 
 ## About Me
 
-<p style="line-height: 1.6em;">
-I am currently learning software development and working toward becoming a Software Engineer. I enjoy exploring new technologies and engaging with developer communities.
-</p>
+A software engineer focused on backend development using Go, PostgreSQL, and Linux-based systems.
 
-<hr style="margin: 30px 0;" />
+I enjoy building backend systems that are clear, maintainable, and easy to evolve.
 
-## Technologies & Tools
+## Tech Stack
 
-| Languages & Frameworks | Tools & Concepts |
-|-----------------------|-----------------|
-| Go                    | Backend development |
-| Vim                   | Efficient text editing and workflow optimization |
-| PostgreSQL            | Database design and management |
-| Linux                 | Operating system & development environment |
-| Podman                | Container management and orchestration |
+**Backend**
+- Go
 
-<hr style="margin: 30px 0;" />
+**Database**
+- PostgreSQL
 
-## I Write At
+**Tools**
+- Vim
+- Linux
+- Podman
 
-<p style="line-height: 1.6em;">
-Coming Soon
-</p>
+## Writing
 
-<hr style="margin: 30px 0;" />
+Coming soon
 
-## Connect With Me
+## Connect
 
-<p align="center" style="margin-top: 10px; font-size: 1.1em;">
-  <a href="https://www.linkedin.com/in/ekokurniawann/" style="text-decoration: none; margin: 0 10px;">
-    LinkedIn
-  </a>
-</p>
+- LinkedIn: [Profile](https://www.linkedin.com/in/ekokurniawann/)
